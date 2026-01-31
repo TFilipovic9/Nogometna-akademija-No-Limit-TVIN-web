@@ -1,0 +1,284 @@
+{
+  "trener": {
+    "ime": "Tomislav Filipović",
+    "slika": "images/igraci/filipovictomislav.png",
+    "opis": "-----------------------------"
+  },
+  "igraci": [
+    {
+      "ime": "Patrik Grdić",
+      "broj": 31,
+      "pozicija": "Vratar",
+      "datumRodenja": "2007-26-06",
+      "utakmice": 9,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/grdic.png"
+    },
+    {
+      "ime": "Ante Šimić",
+      "broj": 66,
+      "pozicija": "Vratar",
+      "datumRodenja": "2002-01-04",
+      "utakmice": 6,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/simic.jpg"
+    },
+    {
+      "ime": "Rafael Amidžić",
+      "broj": 4,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 11,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/amidzic.png"
+    },
+    {
+      "ime": "Dominik Belani",
+      "broj": 2,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 4,
+      "golovi": 1,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/belani.jpg"
+    },
+    {
+      "ime": "Filip Crnjak",
+      "broj": 22,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 3,
+      "golovi": 0,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/crnjak.png"
+    },
+    {
+      "ime": "Ivan Čađavčan",
+      "broj": 79,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 3,
+      "golovi": 0,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/cadjavcan.jpg"
+    },
+    {
+      "ime": "Josip Đurđević",
+      "broj": 77,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 9,
+      "golovi": 0,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/djurdjevic.jpg"
+    },
+    {
+      "ime": "Noel Garić",
+      "broj": 6,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 9,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/garic.png"
+    },
+    {
+      "ime": "Josip Jagić",
+      "broj": 90,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 1,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/jagic.png"
+    },
+    {
+      "ime": "Mateo Jagić",
+      "broj": 69,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 1,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/jagicmateo.jpg"
+    },
+    {
+      "ime": "Matija Jerbić",
+      "broj": 2,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 26,
+      "golovi": 6,
+      "zuti": 4,
+      "crveni": 0,
+      "slika": "images/igraci/jerbic.jpg"
+    },
+    {
+      "ime": "Hrvoje Matanić",
+      "broj": 18,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 11,
+      "golovi": 1,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/matanic.jpg"
+    },
+    {
+      "ime": "Luka Nikšić",
+      "broj": 11,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 12,
+      "golovi": 1,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/niksic.png"
+    },
+    {
+      "ime": "Toni Topić",
+      "broj": 19,
+      "pozicija": "Branič",
+      "datumRodenja": "",
+      "utakmice": 4,
+      "golovi": 0,
+      "zuti": 1,
+      "crveni": 1,
+      "slika": "images/igraci/topic.png"
+    },
+    {
+      "ime": "Oton Fadljević",
+      "broj": 10,
+      "pozicija": "Vezni",
+      "datumRodenja": "",
+      "utakmice": 11,
+      "golovi": 2,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/fadljevic.jpg"
+    },
+    {
+      "ime": "Karlo Jovanović",
+      "broj": 19,
+      "pozicija": "Vezni",
+      "datumRodenja": "",
+      "utakmice": 1,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/jovanovic.png"
+    },
+    {
+      "ime": "Noa Kiš",
+      "broj": 17,
+      "pozicija": "Vezni",
+      "datumRodenja": "",
+      "utakmice": 3,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/kis.png"
+    },
+    {
+      "ime": "Benjamin Široki",
+      "broj": 20,
+      "pozicija": "Vezni",
+      "datumRodenja": "",
+      "utakmice": 6,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/siroki.jpg"
+    },
+    {
+      "ime": "David Rogani",
+      "broj": 47,
+      "pozicija": "Vezni",
+      "datumRodenja": "",
+      "utakmice": 12,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/rogani.png"
+    },
+    {
+      "ime": "Theo Filipović",
+      "broj": 9,
+      "pozicija": "Napadač",
+      "datumRodenja": "2004-27-10",
+      "utakmice": 12,
+      "golovi": 4,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/filipovictheo.jpg"
+    },
+    {
+      "ime": "Marko Dumančić",
+      "broj": 24,
+      "pozicija": "Napadač",
+      "datumRodenja": "",
+      "utakmice": 4,
+      "golovi": 1,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/dumancic.png"
+    },
+    {
+      "ime": "Tomislav Filipović",
+      "broj": 99,
+      "pozicija": "Napadač",
+      "datumRodenja": "1981-08-01",
+      "utakmice": 8,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/filipovictomislav.png"
+    },
+    {
+      "ime": "Luka Grbac",
+      "broj": 20,
+      "pozicija": "Napadač",
+      "datumRodenja": "",
+      "utakmice": 1,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/grbac.png"
+    },
+    {
+      "ime": "Mario Jug",
+      "broj": 91,
+      "pozicija": "Napadač",
+      "datumRodenja": "",
+      "utakmice": 9,
+      "golovi": 0,
+      "zuti": 0,
+      "crveni": 0,
+      "slika": "images/igraci/jug.png"
+    },
+    {
+      "ime": "Dominik Živković",
+      "broj": 17,
+      "pozicija": "Napadač",
+      "datumRodenja": "",
+      "utakmice": 6,
+      "golovi": 0,
+      "zuti": 1,
+      "crveni": 0,
+      "slika": "images/igraci/zivkovic.png"
+    }
+  ]
+}
