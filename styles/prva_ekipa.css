@@ -1,0 +1,104 @@
+.team {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #343434;
+}
+
+.team-title {
+  border-bottom: 3px solid #df071c;
+  padding-bottom: 8px;
+  margin-bottom: 25px;
+}
+
+.coach h2,
+.players h2 {
+  border-bottom: 2px solid #df071c;
+  padding-bottom: 8px;
+  margin: 10px 0 20px 0;
+}
+
+.filter {
+  margin: 20px 0 25px 0;
+  padding-bottom: 20px;
+}
+
+.filter-label {
+  display: block;
+  margin-bottom: 8px;
+  color: #343434;
+}
+
+.filter-select {
+  width: 100%;
+  max-width: 300px;
+  padding: 8px;
+  border: 2px solid #343434;
+  border-radius: 8px;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.trener {
+  display: flex;
+  gap: 20px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid #343434;
+  margin-bottom: 25px;
+  align-items: flex-start;
+}
+
+
+.trener h3 {
+  color: #df071c;
+  margin: 10px 0 8px 0;
+}
+
+.trener p {
+  line-height: 1.5;
+  margin: 0;
+}
+
+.trener img {
+  width: 100%;
+  max-width: 260px;
+  border: 2px solid ;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.igrac {
+  display: flex;
+  gap: 20px;
+  padding: 18px 0;
+  border-bottom: 2px solid #343434;
+  align-items: flex-start;
+}
+
+.igrac:last-child {
+  border-bottom: none;
+}
+
+.igrac-slika {
+  width: 160px;
+  flex-shrink: 0;
+  border: 2px solid;
+  border-radius: 8px;
+}
+
+.igrac-info {
+  flex: 1;
+}
+
+.igrac-naslov {
+  color: #df071c;
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.igrac-stat {
+  margin: 0 0 6px 0;
+  line-height: 1.4;
+  color: #343434;
+}

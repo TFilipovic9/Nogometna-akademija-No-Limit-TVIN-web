@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prva ekipa</title>
+    <link rel="stylesheet" href="./styles/base.css">
+    <link rel="stylesheet" href="./styles/prva_ekipa.css">
+  </head>
+  <body>
+    <header class="header">
+      <img class='logo' src="./images/no_limit_tvin_logo.png" alt="No Limit TVIN grb" />
+      <h1>Nogometna akademija No Limit TVIN</h1>
+    </header>
+  
+    <nav class="nav">
+      <a href="./index.html">Home</a>
+      <a href="./prva_ekipa.html">Prva ekipa</a>
+      <a href="./raspored.html">Raspored</a>
+      <a href="./o_nama.html">O nama</a>
+    </nav>
+
+    <main class="team">
+
+      <h1 class="team-title">Prva ekipa</h1>
+    
+      <section id="trener" class="coach"></section>
+    
+      <div class="filter">
+        <label class="filter-label" for="pozicijaFilter">Filtriraj po poziciji:</label>
+        <select class="filter-select" id="pozicijaFilter">
+          <option value="all">Sve pozicije</option>
+          <option value="Vratar">Vratar</option>
+          <option value="Branič">Branič</option>
+          <option value="Vezni">Vezni</option>
+          <option value="Napadač">Napadač</option>
+        </select>
+      </div>
+    
+      <section id="igraci" class="players"></section>
+    
+    </main>
+
+    
+    <footer class="footer">
+      <p>© 2026 Nogometna akademija No Limit TVIN</p>
+      <div class="social">
+        <a href="https://www.instagram.com/nogometnaakademija_no_limit/">
+          <img src="./images/instagram_logo.png" alt="instagram logo" />
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=100064533978680">
+          <img src="./images/facebook_logo.png" alt="facebook logo" />
+        </a>
+        <a href="https://www.youtube.com/@nogometnaakademijanolimit6218">
+          <img src="./images/youtube_logo.png" alt="youtube logo" />
+        </a>
+      </div>
+    </footer>
+    <script src="./scripts/prva_ekipa.js"></script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+.about {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+}
+
+.about-intro {
+  margin-bottom: 25px;
+  line-height: 1.6;
+  text-align: center;
+  color: #343434;
+}
+
+.about-title {
+  border-bottom: 3px solid #df071c;
+  padding-bottom: 8px;
+  margin-bottom: 25px;
+  color: #343434;
+}
+
+.age-group {
+  margin-bottom: 35px;
+  padding-bottom: 25px;
+  border-bottom: 2px solid #df071c;
+}
+
+.age-title {
+  margin-bottom: 8px;
+  color: #df071c;
+}
+
+.age-text {
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: #343434;
+}
+
+.age-image {
+  width: 100%;
+  max-width: 900px;
+  border: 2px solid;
+  border-radius: 8px;
+}
+
+.age-link {
+  color: #df071c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.age-link:hover {
+  text-decoration: underline;
+}

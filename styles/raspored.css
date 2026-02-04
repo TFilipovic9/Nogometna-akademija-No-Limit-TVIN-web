@@ -1,0 +1,34 @@
+.schedule {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #343434;
+}
+  
+.schedule-title {
+  border-bottom: 3px solid #df071c;
+  padding-bottom: 8px;
+  margin-bottom: 25px;
+}
+  
+.matches {
+  color: #343434;
+}
+  
+.match {
+  padding: 16px 0;
+  border-bottom: 2px solid #343434;
+  line-height: 1.5;
+}
+  
+.match:last-child {
+  border-bottom: none;
+}
+  
+.match strong {
+  color: #df071c;
+  font-size: 18px;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+  
